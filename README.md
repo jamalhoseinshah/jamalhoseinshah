@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me jamalhoseinshah@gmail.com
 
-- Cyber Security Skill
+# Cyber Security Skill
 
 - Security audits, such as a DNS audit         - Log and memory analysis            
 - Risk intelligence data analysis              - pcap          
@@ -12,11 +12,11 @@
 - Log and memory analysis                      - Developing risk scenarios
 
 
-- Certification 
+# Certification 
  
- - Python Alpha , Python Primer , Python Beta , Python Gamma (Projects)
- - CISSP Certification of Certified information systems security proffessional 
- - Cyber Security Essentials Revisit
+-  Python Alpha , Python Primer , Python Beta , Python Gamma (Projects)
+-  CISSP Certification of Certified information systems security proffessional 
+-  Cyber Security Essentials Revisit
 -  ISO 27001,ISO 27017,ISO 27018 Lead Implementation & Auditor Course
 -  ISO 27001,27017,27018 Hands on Implementation Practicle.
 -  CIS Top 20 Controls Hands on Implementation.
@@ -25,7 +25,7 @@
    File Operations,Text Editors, User Environment,Manipulating Text, Network Operations,The Bash Shell and Basic Scripting,More on Bash Shell Scripting.
 
 
--  Python Skills
+# Python Skills
 
 -	Essential Python keywords, operators, statements, and expressions to make programming easy to grasp.
 - Complete chapters on object-oriented programming included diagrams.
