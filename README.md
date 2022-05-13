@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jamal Hussain Shah
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently working ghanimah.com (The world best cyber security online plafform).
+- 🌱 I’m currently working cyber security analyst.
 - 📫 How to reach me jamalhoseinshah@gmail.com
 
 
